@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - Computer Science student
-- Former mobile technician
 - Passionate about backend development and systems
 
 ## 🛠️ Tech Stack
@@ -21,5 +20,5 @@
 - Project 2: Automation tool
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your-link
+- Email: mohid.shahid@outlook.com
+- LinkedIn: www.linkedin.com/in/mohid-shahid
