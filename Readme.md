@@ -1,10 +1,11 @@
 # Hi there, I'm Mohid! 👋
 
-I am a Full-Stack JavaScript Developer. I build web applications using the MERN stack, Next.js, and AWS cloud infrastructure. 
+I am a Full-Stack JavaScript Developer with experience building modern web applications using the MERN stack, Next.js, TypeScript, and AWS.
 
-I work across the entire lifecycle of a project—from designing databases and building backend APIs to deploying everything to the cloud. I don't just write code that works; I focus on writing clean, secure code and solving real problems in production environments.
+My work includes designing database schemas, developing backend APIs, building responsive frontend applications, integrating third-party APIs, implementing authentication and authorization, managing cloud infrastructure, and deploying production-ready applications.
 
-Right now, I am focusing deeply on learning **System Design**, **Design Patterns**, and **Web Security** to build more scalable and safer applications.
+
+I am currently focused on strengthening my expertise in **System Design**, **Design Patterns**, and **Web Security** while continuing to build scalable and reliable software.
 
 ---
 
