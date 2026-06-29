@@ -2,8 +2,6 @@
 
 ### Full-Stack JavaScript Developer | MERN • Next.js • TypeScript • AWS
 
-## 👋 About Me
-
 I am a Full-Stack JavaScript Developer with experience building modern web applications using the MERN stack, Next.js.
 
 My work includes designing database schemas, developing backend APIs, building responsive frontend applications, integrating third-party APIs, implementing authentication and authorization, deploying production-ready applications, and managing cloud infrastructure.
