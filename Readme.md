@@ -15,9 +15,6 @@
 - Distributed Systems
 - Scalable backend architecture
 
-## 📌 Projects
-- Project 1: API-based system
-- Project 2: Automation tool
 
 ## 📫 Contact
 - Email: mohid.shahid@outlook.com
