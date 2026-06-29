@@ -38,29 +38,16 @@ A dedicated Full-Stack Developer specializing in building high-performance backe
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohidshahid&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?mohidshahid=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidshahid&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🏗️ Featured Projects & Focus Areas
-
-### **1. Relay — Automated Interview Insights Platform**
-An enterprise-grade interview pipeline and management engine designed to streamline research, recording, and processing.
-* **Multi-File Transcriptions:** Seamlessly upload and queue multiple audio/video interview assets simultaneously.
-* **Automated Analysis:** Utilizes fine-tuned language processing to auto-generate structured summaries, speaker tags, and critical action items.
-
-### **2. Market Research & Analytics Dashboard**
-A data-heavy workspace visualizing user behaviors, sentiment trends, and market metrics.
-* **Sentiment Visualization:** Built real-time sentiment charts and thematic distributions using **ECharts**.
-* **Participant Onboarding Infrastructure:** Architected a robust multi-step workspace onboarding flow, featuring algorithmic screening questions, customized invitation routing, and automated project rejection/acceptance lifecycle states.
-
----
 
 ## 📈 Engineering Commitments & Growth Roadmap
 
