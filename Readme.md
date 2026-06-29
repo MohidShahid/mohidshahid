@@ -37,12 +37,9 @@ A dedicated Full-Stack Developer specializing in building high-performance backe
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohidshahid&show_icons=true&theme=radical&count_private=true&hide=commits,prs" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
-</p>
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidshahid&theme=radical" alt="GitHub Streak" />
 </p>
 
