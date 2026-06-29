@@ -39,7 +39,7 @@ I'm currently deepening my expertise in **System Design**, **Design Patterns**, 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat\&logo=ubuntu\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 
 #### Tools
@@ -47,7 +47,6 @@ I'm currently deepening my expertise in **System Design**, **Design Patterns**, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat\&logo=postman\&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat\&logo=burpsuite\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
