@@ -39,8 +39,8 @@ A dedicated Full-Stack Developer specializing in building high-performance backe
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidshahid&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
 </p>
 
 ---
