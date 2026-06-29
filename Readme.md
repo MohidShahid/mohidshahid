@@ -1,63 +1,61 @@
-# Hi 👋, I'm Mohid
-# 🚀 Full-Stack Developer
+# Hi there, I'm Mohid! 👋
 
-A dedicated Full-Stack Developer specializing in building high-performance backend architectures, real-time communication networks, and data-driven web applications. Passionate about scalable system design, clean code practices, and integrating intelligent automation into modern workspaces.
+I am a Full-Stack JavaScript Developer. I build web applications using the MERN stack, Next.js, and AWS cloud infrastructure. 
 
----
+I work across the entire lifecycle of a project—from designing databases and building backend APIs to deploying everything to the cloud. I don't just write code that works; I focus on writing clean, secure code and solving real problems in production environments.
 
-## 🛠️ Tech Stack & Ecosystem
-
-### **Frontend & Interface**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### **Backend, Database & Real-Time**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### **Cloud, DevOps & Environment**
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-</p>
+Right now, I am focusing deeply on learning **System Design**, **Design Patterns**, and **Web Security** to build more scalable and safer applications.
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ My Tech Stack
 
+### **Frontend**
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/javascript.svg" alt="JavaScript" width="40" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/typescript.svg" alt="TypeScript" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/react.svg" alt="React" width="40" height="40" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40" /></a>
+</p>
+
+### **Backend & Databases**
+<p align="left">
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/nodejs.svg" alt="NodeJS" width="40" height="40" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" /></a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/postgresql.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/mongodb.svg" alt="MongoDB" width="40" height="40" /></a>
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/aws.svg" alt="AWS" width="40" height="40" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/master/public/acticons/docker.svg" alt="Docker" width="40" height="40" /></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" /></a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohidshahid&theme=radical" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidshahid&layout=compact&theme=radical&hide=css,html" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
+## 📈 What I Am Learning Next
 
-## 📈 Engineering Commitments & Growth Roadmap
-
-Currently executing a rigorous **System Design & Architecture Roadmap** focused on mastering:
-1.  **Distributed Architectures:** Load balancing, horizontal scaling strategies, and microservices database patterns.
-2.  **Advanced DSA:** Continuous optimization of core algorithms and complex data structures for resource-efficient backend execution.
-3.  **Cloud-Native Continuous Deployment:** Hardening production pipelines with AWS scaling groups and container orchestration.
-
----
-
-## 📬 Connect & Collaborate
-* **Current Framework Focus:** Next.js, TypeScript, Prisma, and AWS
-* **Dev Philosophy:** "Build for scalability, automate the friction, keep the architecture human-readable."
+I want to grow from a developer into a strong engineer. Right now, I am spending my time learning:
+1. **System Design:** Understanding how to scale apps, handle large amounts of traffic, and use database patterns.
+2. **Data Structures & Algorithms (DSA):** Writing code that runs faster and uses less memory.
+3. **Web Security:** Learning how common cyber attacks work so I can build secure applications, Learning practices through PortSwagger Academy and OWASP.
 
 ---
-*Generated based on current project architectures and technological focuses. Last updated: June 2026.*
+
+## 📬 Let's Connect!
+* 💼 **Looking for:** Full-time software engineering roles or freelance projects.
+* 💬 **Current Core Focus:** Next.js, TypeScript, Prisma, and AWS.
